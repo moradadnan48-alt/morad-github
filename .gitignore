@@ -18,3 +18,4 @@ dist/
 # تجاهل ملفات النظام المؤقتة
 .DS_Store
 Thumbs.db
+# End of ignore rules
