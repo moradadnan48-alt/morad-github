@@ -1,0 +1,20 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Ignored default folder with query files
+/queries/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# تجاهل مكتبات نود ومجلدات التبعيات
+node_modules/
+dist/
+
+# تجاهل إعدادات بيئة العمل وبرنامج WebStorm
+.idea/
+
+# تجاهل ملفات النظام المؤقتة
+.DS_Store
+Thumbs.db
