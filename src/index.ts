@@ -31,3 +31,6 @@ manager.addTask({
 
 manager.printSummary();
 
+// مؤشرات التحليلات المستقلة (طلب التعديل CR-04 - نشاط AT-03-A04)
+manager.printAnalytics();
+
